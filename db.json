@@ -1,0 +1,110 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Myra"
+    },
+    {
+      "name": "Dr. Kellie Smith",
+      "id": "bNn5_jx"
+    },
+    {
+      "name": "Greg Brekke",
+      "id": "oUd4XNj"
+    }
+  ],
+  "albums": [
+    {
+      "id": "10",
+      "title": "Hiking Trip",
+      "userId": "1"
+    },
+    {
+      "userId": "bNn5_jx",
+      "title": "Awesome Rubber Gloves",
+      "id": "e9r_0Tf"
+    },
+    {
+      "userId": "bNn5_jx",
+      "title": "Awesome Steel Salad",
+      "id": "2pZuxO5"
+    },
+    {
+      "userId": "1",
+      "title": "Awesome Bronze Chips",
+      "id": "BZbNmKI"
+    },
+    {
+      "userId": "1",
+      "title": "Generic Steel Ball",
+      "id": "RZBJKi7"
+    },
+    {
+      "userId": "1",
+      "title": "Rustic Cotton Mouse",
+      "id": "0Y60KAr"
+    },
+    {
+      "userId": "1",
+      "title": "Modern Plastic Soap",
+      "id": "42ACjJT"
+    },
+    {
+      "userId": "oUd4XNj",
+      "title": "Practical Rubber Cheese",
+      "id": "BjSUMBw"
+    },
+    {
+      "userId": "oUd4XNj",
+      "title": "Refined Metal Salad",
+      "id": "VBq34Ii"
+    },
+    {
+      "userId": "1",
+      "title": "Intelligent Concrete Chicken",
+      "id": "8q4iiNd"
+    }
+  ],
+  "photos": [
+    {
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=16635",
+      "id": 3
+    },
+    {
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=28437",
+      "id": 4
+    },
+    {
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=56431",
+      "id": 6
+    },
+    {
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=38515",
+      "id": 7
+    },
+    {
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=90912",
+      "id": 9
+    },
+    {
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=87867",
+      "id": 10
+    },
+    {
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=90533",
+      "id": 11
+    },
+    {
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=45888",
+      "id": 12
+    }
+  ]
+}
